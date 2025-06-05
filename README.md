@@ -1,8 +1,11 @@
-#  An Artificial Intelligence–Driven Algorithm Predicts Immunotherapy and Targeted Therapy Outcomes in Clear Cell Renal Cell Carcinoma
+#  An Artificial Intelligence–Driven Multimodal Algorithm Predicts Immunotherapy and Targeted Therapy Outcomes in Clear Cell Renal Cell Carcinoma
 
 ##  Introduction
 
 This repository supports our study on predictive modeling in **metastatic clear cell renal cell carcinoma (ccRCC)**. While **tyrosine kinase inhibitors (TKIs)** and **immune checkpoint inhibitors (ICIs)** have transformed treatment, challenges such as toxicity and eventual resistance remain.
+
+![graphical abstract](Figure/GA actual.svg)
+
 
 ##  Summary
 
