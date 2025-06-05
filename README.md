@@ -4,7 +4,7 @@
 
 This repository supports our study on predictive modeling in **metastatic clear cell renal cell carcinoma (ccRCC)**. While **tyrosine kinase inhibitors (TKIs)** and **immune checkpoint inhibitors (ICIs)** have transformed treatment, challenges such as toxicity and eventual resistance remain.
 
-![graphical abstract](Figure/GA actual.svg)
+![graphical abstract](Figure/GA_actual.svg)
 
 
 ##  Summary
