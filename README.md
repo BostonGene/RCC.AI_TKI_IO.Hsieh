@@ -4,7 +4,7 @@
 
 This repository supports our study on predictive modeling in **metastatic clear cell renal cell carcinoma (ccRCC)**. While **tyrosine kinase inhibitors (TKIs)** and **immune checkpoint inhibitors (ICIs)** have transformed treatment, challenges such as toxicity and eventual resistance remain.
 
-![graphical abstract](Figure/GA_actual.svg)
+![graphical abstract](Figure/GA_actual.png)
 
 
 ##  Summary
@@ -24,15 +24,17 @@ This repository supports our study on predictive modeling in **metastatic clear 
 ##  Repository Structure
 
 ```text
-├── data/                          # Preprocessed expression and annotation data
-│   ├── ccrcc_tki_0.1.pickle       # Trained TKI model
-│   └── ccrcc_io_0.3.pickle        # Trained IO model
-├── IO_model.ipynb                 # Jupyter notebook for IO model analysis and visualization
-├── TKI_model.ipynb                # Jupyter notebook for TKI model analysis and visualization
-├── portraits/                     # Helper functions and pipelines
-├── requirements.txt               # Python package dependencies
-├── make_tme_environment.sh        # Shell script for environment setup
-└── README.md                      # Project summary and instructions
+├── data/                                  # Preprocessed expression and annotation data
+│   ├── ccrcc_tki_0.1.pickle               # Trained TKI model
+│   └── ccrcc_io_0.3.pickle                # Trained IO model
+├── IO_model.ipynb                         # Jupyter notebook for IO model analysis and visualization
+├── TKI_model.ipynb                        # Jupyter notebook for TKI model analysis and visualization
+├── portraits/                             # Helper functions and pipelines
+├── requirements.txt                       # Python package dependencies
+├── make_tme_environment.sh                # Shell script for environment setup
+├── RCC.AI_TKI_IO.Hsieh Notice File.md     # NOTICE OF OPEN SOURCE LICENSES, TERMS AND CONDITIONS
+├── License.md                             # Software License Agreement
+└── README.md                              # Project summary and instructions
 
 ```
 
